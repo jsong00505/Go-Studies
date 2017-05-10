@@ -1,0 +1,11 @@
+* To run a program
+```go
+go run hello-world.go'
+```
+
+* To build a program and run
+```go
+go build hello-world.go
+./hello-world
+
+```
